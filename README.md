@@ -1,7 +1,5 @@
 # Skill Gap Analyzer and Career Recommendation Platform
 
-
-
 ## Overview
 
 The Skill Gap Analyzer and Career Recommendation Platform is a full-stack web application developed to help users identify the difference between their current skills and the skills required for specific career roles.
@@ -93,7 +91,7 @@ Supabase PostgreSQL is used for storing:
 - Recommended learning resources
 - Authentication data
 
----
+
 
 ## Workflow
 
@@ -135,7 +133,7 @@ Based on the analysis, the system generates:
 - Results are displayed in a structured dashboard
 - Users can review recommendations and track learning priorities
 
----
+
 
 ## Core Functionality
 
@@ -174,7 +172,7 @@ The system:
 - Estimates user suitability for different career roles
 - Suggests learning priorities
 
----
+
 
 ## API Flow
 
@@ -196,7 +194,7 @@ The Node.js backend:
 - Retrieves and updates data from Supabase
 - Returns analysis results
 
----
+
 
 ## Security Implementation
 
@@ -210,7 +208,7 @@ The project includes:
 
 Sensitive operations are accessible only to authenticated users.
 
----
+
 
 ## User Interface
 
@@ -223,7 +221,7 @@ The interface is designed to be:
 
 The dashboard presents recommendations and skill analysis results in a structured and readable format.
 
----
+
 
 ## Project Structure
 
@@ -256,7 +254,7 @@ Skill-Gap-Analyzer/
 └── README.md
 ```
 
----
+
 
 ## Installation and Setup
 
@@ -269,7 +267,7 @@ Install the following before running the project:
 - Supabase account
 - Git
 
----
+
 
 ## Local Setup
 
@@ -324,7 +322,7 @@ npm start
 npm run dev
 ```
 
----
+
 
 ## Future Enhancements
 
@@ -338,7 +336,7 @@ Planned improvements include:
 - Personalized dashboards
 - Interview preparation modules
 
----
+
 
 ## Applications
 
