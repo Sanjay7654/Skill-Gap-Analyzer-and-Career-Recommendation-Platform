@@ -1,6 +1,6 @@
 # Skill Gap Analyzer and Career Recommendation Platform
 
----
+
 
 ## Overview
 
@@ -10,7 +10,7 @@ The platform analyzes user skills, compares them with predefined industry requir
 
 The project focuses on solving a common problem faced by many learners: knowing what to learn next and how their existing skills align with real-world job roles.
 
----
+
 
 ## Objectives
 
@@ -21,7 +21,7 @@ The project focuses on solving a common problem faced by many learners: knowing 
 - Maintain secure user authentication and profile management
 - Deliver a responsive and user-friendly experience
 
----
+
 
 ## Tech Stack
 
@@ -55,7 +55,7 @@ The project focuses on solving a common problem faced by many learners: knowing 
 - Git and GitHub
 - Postman
 
----
+
 
 ## Architecture Overview
 
